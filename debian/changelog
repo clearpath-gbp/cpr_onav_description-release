@@ -1,0 +1,18 @@
+ros-noetic-cpr-onav-description (0.1.1-1focal) focal; urgency=high
+
+  * Added license file.
+  * remove circular dependency by adding local copies of accesory urdf files
+  * added charge receiver link
+  * Contributors: José Mastrangelo, Tony Baltovski
+
+ -- José Mastrangelo <jmastrangelo@clearpathrobotics.com>  Mon, 08 May 2023 04:00:00 -0000
+
+ros-noetic-cpr-onav-description (0.1.0-1focal) focal; urgency=high
+
+  * Added STL files for Starter Kit, Velodynes and Realsense D435s
+  * Added urdf files for starter and standard kits
+  * Contributors: José Mastrangelo
+
+ -- José Mastrangelo <jmastrangelo@clearpathrobotics.com>  Thu, 16 Mar 2023 04:00:00 -0000
+
+
