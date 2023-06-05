@@ -2,6 +2,11 @@
 Changelog for package cpr_onav_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.2 (2023-06-05)
+------------------
+* modified sensor topic names. and move laser out of block as a temp fix
+* Contributors: José Mastrangelo
+
 0.1.1 (2023-05-08)
 ------------------
 * Added license file.
