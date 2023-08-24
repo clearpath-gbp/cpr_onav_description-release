@@ -1,0 +1,59 @@
+ros-noetic-cpr-onav-description (0.1.6-1focal) focal; urgency=high
+
+  * Fix the path to the wibotic antenna mesh
+  * Contributors: Chris Iverach-Brereton
+
+ -- José Mastrangelo <jmastrangelo@clearpathrobotics.com>  Thu, 24 Aug 2023 04:00:00 -0000
+
+ros-noetic-cpr-onav-description (0.1.5-1focal) focal; urgency=high
+
+  * Add support for Husky Observer
+  * Add a new macro for the GNSS antennas, including collision bodies
+  * Add Husky Observer backpack model, Q62 meshes, support for observer configuration
+  * Fix the path for the Hokuyo mesh, add simplified collision geometry
+  * Contributors: Chris Iverach-Brereton
+
+ -- José Mastrangelo <jmastrangelo@clearpathrobotics.com>  Mon, 21 Aug 2023 04:00:00 -0000
+
+ros-noetic-cpr-onav-description (0.1.4-1focal) focal; urgency=high
+
+  * fix urdf issue related to including multiple realsense cameras. moved all includes into custom block. each of the standard/starter sub-urdfs have their own include lines for the required sensors.
+  * 0.1.3
+  * Changes.
+  * fix: move lms1xx link back into correct location. this bug was resolve in the intall script. update hokuyo prefix
+  * Contributors: José Mastrangelo, Tony Baltovski
+
+ -- José Mastrangelo <jmastrangelo@clearpathrobotics.com>  Thu, 10 Aug 2023 04:00:00 -0000
+
+ros-noetic-cpr-onav-description (0.1.3-1focal) focal; urgency=high
+
+  * fix: move lms1xx link back into correct location. this bug was resolve in the intall script. update hokuyo prefix
+  * Contributors: José Mastrangelo
+
+ -- José Mastrangelo <jmastrangelo@clearpathrobotics.com>  Tue, 25 Jul 2023 04:00:00 -0000
+
+ros-noetic-cpr-onav-description (0.1.2-1focal) focal; urgency=high
+
+  * modified sensor topic names. and move laser out of block as a temp fix
+  * Contributors: José Mastrangelo
+
+ -- José Mastrangelo <jmastrangelo@clearpathrobotics.com>  Mon, 05 Jun 2023 04:00:00 -0000
+
+ros-noetic-cpr-onav-description (0.1.1-1focal) focal; urgency=high
+
+  * Added license file.
+  * remove circular dependency by adding local copies of accesory urdf files
+  * added charge receiver link
+  * Contributors: José Mastrangelo, Tony Baltovski
+
+ -- José Mastrangelo <jmastrangelo@clearpathrobotics.com>  Mon, 08 May 2023 04:00:00 -0000
+
+ros-noetic-cpr-onav-description (0.1.0-1focal) focal; urgency=high
+
+  * Added STL files for Starter Kit, Velodynes and Realsense D435s
+  * Added urdf files for starter and standard kits
+  * Contributors: José Mastrangelo
+
+ -- José Mastrangelo <jmastrangelo@clearpathrobotics.com>  Thu, 16 Mar 2023 04:00:00 -0000
+
+
