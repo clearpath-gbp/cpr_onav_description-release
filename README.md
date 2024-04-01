@@ -1,3 +1,26 @@
+## cpr_onav_description (noetic) - 0.1.11-1
+
+The packages in the `cpr_onav_description` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -t noetic -r noetic cpr_onav_description` on `Mon, 01 Apr 2024 16:05:27 -0000`
+
+The `cpr_onav_description` package was released.
+
+Version of package(s) in repository `cpr_onav_description`:
+
+- upstream repository: https://github.com/cpr-application/cpr_onav_description.git
+- release repository: https://github.com/clearpath-gbp/cpr_onav_description-release.git
+- rosdistro version: `0.1.10-1`
+- old version: `0.1.10-1`
+- new version: `0.1.11-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## cpr_onav_description (noetic) - 0.1.10-1
 
 The packages in the `cpr_onav_description` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -t noetic -r noetic cpr_onav_description` on `Tue, 31 Oct 2023 15:35:27 -0000`
