@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:clearpath-gbp/cpr_onav_description-release.git
 tracks:
   noetic:
     actions:
